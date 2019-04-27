@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234731908987",
+    "firebase_url": "https://collegeguide-6ac4e.firebaseio.com",
+    "project_id": "collegeguide-6ac4e",
+    "storage_bucket": "collegeguide-6ac4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234731908987:android:a7d2b6a24f1d359a",
+        "android_client_info": {
+          "package_name": "com.example.manojkumar.collegeguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234731908987-17igg6irn9b0sj40fubu9bkks6c2d5rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manojkumar.collegeguide",
+            "certificate_hash": "1d4d708fb051a2ed699a376e641d72c9a4f72a05"
+          }
+        },
+        {
+          "client_id": "234731908987-rchtkl14s6ugdrn3e0sv91gjo4ilh3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qmbnwMz5A2tmGCOgWxVAnETjgerNtbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234731908987-rchtkl14s6ugdrn3e0sv91gjo4ilh3c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
